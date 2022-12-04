@@ -39,4 +39,5 @@ int main()
 		maxElf3 = currentElf;
 	}
 	cout << maxElf1 + maxElf2 + maxElf3;
+	return 0;
 }

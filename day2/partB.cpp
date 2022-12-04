@@ -26,4 +26,5 @@ int main()
 		score += chooseState + 1;
 	}
 	cout << score;
+	return 0;
 }

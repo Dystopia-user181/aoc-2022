@@ -22,4 +22,5 @@ int main()
 	maxElf = max(maxElf, currentElf);
 	currentElf = 0;
 	cout << maxElf;
+	return 0;
 }

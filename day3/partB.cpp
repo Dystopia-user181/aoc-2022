@@ -44,4 +44,5 @@ int main()
 		}
 	}
 	cout << score;
+	return 0;
 }
