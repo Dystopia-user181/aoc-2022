@@ -36,6 +36,9 @@
 		"xstring": "cpp",
 		"xtr1common": "cpp",
 		"xutility": "cpp",
-		"algorithm": "cpp"
+		"algorithm": "cpp",
+		"deque": "cpp",
+		"vector": "cpp",
+		"queue": "cpp"
 	}
 }
